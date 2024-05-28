@@ -18,3 +18,6 @@ Google Sheet
 
 SELECT * FROM TABLE 1
 WHERE CONDITION =NET
+
+
+![](EMMANUEL.png)
