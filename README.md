@@ -24,7 +24,7 @@ WHERE CONDITION =NET
 ![](EMMANUEL.png)
 
 
-| Name  | Gendser | Occupation|
+| Name  | Gender | Occupation|
 |-----------|----------|----------|
 |Emmanuel| Male| Accountant|
 |Elizabeth| Female| Auditor|
