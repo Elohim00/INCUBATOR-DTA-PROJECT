@@ -19,5 +19,13 @@ Google Sheet
 SELECT * FROM TABLE 1
 WHERE CONDITION =NET
 
+```
 
 ![](EMMANUEL.png)
+
+
+| Name  | Gendser | Occupation|
+|-----------|----------|----------|
+|Emmanuel| Male| Accountant|
+|Elizabeth| Female| Auditor|
+
